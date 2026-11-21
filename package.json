@@ -1,0 +1,7 @@
+{
+  "name": "csv-speed",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "description": "Exact fast clone of csv-reader 1.0.0 for csv-reader-speed-01-run-20261121"
+}
